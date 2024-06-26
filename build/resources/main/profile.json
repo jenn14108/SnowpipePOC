@@ -1,0 +1,15 @@
+{
+  "user": "JENN14108",
+  "url": "https://tirajwk-pha86896.snowflakecomputing.com:443",
+  "account": "tirajwk-pha86896",
+  "private_key": "MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCrtQKCNUTQ2EImSqMMLMhGU4sn0U1WLNy7wSVV/JItOFGhmN/4qfGv1qbEGKik7J7XR00vduLabNSHIcRXYzkEbCzYps+rJvnVp388JJ1/SN2hiIbiZdh9K/toO/sK93Q0wgjWsbnz07GOdxdtIMj9roxBPNC0qNav9+fElnUuhabqSt4AzqE0fkCyP7rDWt2mKGcUuFVj6jnBAPhOJC8dKeR+v8m9rQo+/1hnOiJVGWA/g07NyMWMeaej7dChj102pjQjqc2dLNvoCzuCQauxBh5+4H2r1U1cJxze4MMPdBdWluwNY7cagOTA5dHDzzbP2dqBeuGoIWF5P6defsznAgMBAAECggEABoEs6dHVcYk/uEOg5EKDXmamdt5Zl6d2FTFpQKtOE6MhNIXzYMV5/7dEn1kadQ+hqiDBWR2f1QvFC/lzfqamRPdJcPZLbP26U9BXOZK0L1uLSdCU4NlgLMhlwGUaoCe6TJACgF+V3m6+jdm6bB/kfU0HcyaNTCAOl0vviRBKECEKwb1bluptXUPT7dVtyWlxdOe/u9fZJdP9F3/YfkDXnJssmk7vZEUuH9snhvcnnxyca7M8JUB9ZbwscfxUS99UFMwJrG8pLC0HAbN83x+Ks8C2s8LG+DVtFKqEWA90o7zbJgJUZXx26t1HCyTC1cztQG3h6Zgk2nxRWyujgtmyQQKBgQDhets7X31klkyX7DVBbVT9HJeUWc3hFcc884OXWpq0yY2LruQLK/pwOae6DA93L/Nu/TND5psrvSC8yi5Bxeo1BZh6OWRcUP7I2xFpiTYNhDT5yrLxTqpQXT9z440Ph1N9cpCY+fBPYipKZuoNtQQBIh+Jp/vXJI6016RzAWUAywKBgQDC8tyGas1buL5SiSG/kt8VxwkO2pSysFKIIR9WssfXh9fkNTvPSXVPiKXGSJq6cod39rsF50AGm32J+ZC2+7fcJgrb9o8bb9ZOBqtTN0i/qDPhbIhIaaNuWAmnEO7Z+UMWbt8HwJhY8NM+d5AvTuMXtEdpGeckFxzdWrK2lO7s1QKBgGLN4S99QodHTTztZtDKxgk79DgvugW981aEJs+2BkDeaUYiVw+GL/HpcdQW4NgLjRK/pS1F6g0ajTPtLKPpxB2D3DMC3zWM0HjXdiPW2nbFzij/Z7ZSEFOy6NExj2iUlkNMZoyCSYmfrIR54GotPhn5B/TcRYEbJeWc8RTsMYRNAoGBAJbAZUXQm0MdZpe+kYlqUvatNlT1NF3Fudyo+Gn70EvcMVe4zqpp3LyHJ+JgTL53SEi9VDypabpyTS7//SdzGee0x1r3nAyUfD1ULPIp4yjKMmxUmEKe5hGzJKu7jWijt3xGelOtXGISwNgiby4WK8gt0bb1n+cptFl8BIzqOKSNAoGAMsyfEkzWYd8Zvucs2ArTZEObpnGlBKSpYS/gMtB1FmMxveuwU+c1DcLLD9sWbtViR7bUX8m7cOWzMnRUblyA4QKLMW7yrbtgq26ysmegUh8O+llRMNGy5ERbnwTG76Fc0mOWHWYwOuMjeTKLpo8W3b7pwmQntU01M9MmaWIlxzY=",
+  "port": 443,
+  "host": "tirajwk-pha86896.snowflakecomputing.com",
+  "schema": "PUBLIC",
+  "scheme": "https",
+  "database": "KAFKASNOWPIPEPOC",
+  "connect_string": "jdbc:snowflake://tirajwk-pha86896.snowflakecomputing.com:443",
+  "ssl": "on",
+  "warehouse": "COMPUTE_WH",
+  "role": "ACCOUNTADMIN"
+}
